@@ -4,7 +4,6 @@ The Banking System Project is a Java-based application that simulates basic bank
 
 ## Features
 Account Creation: Allows users to create a new account with basic personal details.
-Fund Transfer: Enables transferring funds between accounts.
 Balance Checking: Displays the current balance of the account.
 Transaction History: Logs and displays all transactions made by the user.
 Deposit & Withdrawal: Supports deposit and withdrawal functionality.
